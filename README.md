@@ -7,9 +7,10 @@ Flashcard app version 2!
 Allowed user creation of app!
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="https://i.imgur.com/G9fHPbD.mp4" width=200><br>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/YOUnMU3" data-context="false" ><a href="//imgur.com/a/YOUnMU3"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+<img src="" width=200><br>
 
 
 ## Required
