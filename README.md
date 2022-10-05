@@ -7,10 +7,7 @@ Flashcard app version 2!
 Allowed user creation of app!
 
 ### App Walk-though
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/YOUnMU3" data-context="false" ><a href="//imgur.com/a/YOUnMU3"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
-<img src="" width=200><br>
+<img src="https://github.com/rcwoshimao/Flashcard2/blob/main/lab2.gif" width=200><br>
 
 
 ## Required
